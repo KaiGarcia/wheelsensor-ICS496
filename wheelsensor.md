@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/polarization_process.png
+image: projects/wheelsensor-ICS496/img/polarization-process.png
 title: "In-wheel Polarization Camera Sensor"
 date: 2025
 published: true
