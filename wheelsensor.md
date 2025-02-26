@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: projects/wheelsensor-ICS496/img/polarization-process.png
-title: "In-wheel Polarization Camera Sensor"
+title: "Polarimetric Terra-mechanic Sensor"
 date: 2025
 published: true
 labels:
@@ -23,7 +23,7 @@ summary: "Developing a prototype for a polarimetric terramechanic wheel sensor."
     <img src="/projects/wheelsensor-ICS496/img/polarization-process.png" alt="Polarization Process" style="width: 100%;">
   </a>
   <figcaption>
-    Figure 1: Polarization Process. Source: <a href="https://arxiv.org/pdf/2112.11377" target="_blank">Shape from Polarization for Complex Scenes in the Wild</a>.
+    Figure 1: Neural Network Source: <a href="https://arxiv.org/pdf/2112.11377" target="_blank">Shape from Polarization for Complex Scenes in the Wild</a>.
   </figcaption>
 </figure>
 
