@@ -2,7 +2,7 @@
 
 ## Project Details
 
-![Polarization Process](/projects/wheelsensor-ICS496/img/polarization-process.png)
+![Polarization Process](/img/polarization-process.png)
 
 ## End Goal
 #### Deliver a working prototype of polarimetric terra-mechanic wheel sensor. 
@@ -10,7 +10,7 @@ System:
 1. Polarization camera + light mounted inside the wheel
 2. A neural network
 
-![Project Goal](/projects/wheelsensor-ICS496/img/project-goal.png)
+![Project Goal](/img/project-goal.png)
 
 
 ## Weekly Summaries
