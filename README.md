@@ -2,7 +2,7 @@
 
 ## Project Details
 
-![Polarization Process](polarization-process.png)
+![Polarization Process](/projects/wheelsensor-ICS496/img/polarization-process.png)
 
 ## End Goal
 #### Deliver a working prototype of polarimetric terra-mechanic wheel sensor. 
@@ -10,7 +10,7 @@ System:
 1. Polarization camera + light mounted inside the wheel
 2. A neural network
 
-![Project Goal](project-goal.png)
+![Project Goal](/projects/wheelsensor-ICS496/img/project-goal.png)
 
 
 ## Weekly Summaries
@@ -29,7 +29,4 @@ System:
 #### Week 4 (2/13-2/19)
 1. Camera pipeline to numpy
 2. Getting sfp-wild model running (on example images)
-![example polarization 1](set_0000_polar_jockey_atrium.png)
-![example polarization 2](set_0000_polar_trashcan.png)
-
 
