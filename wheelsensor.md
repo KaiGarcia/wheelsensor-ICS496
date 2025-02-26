@@ -18,14 +18,9 @@ summary: "Developing a prototype for a polarimetric terramechanic wheel sensor."
 - **Kai Garcia**: Hardware Design & Data Pipeline <a href="https://github.com/KaiGarcia" target="_blank" rel="noopener noreferrer">GitHub Profile</a>
 - **Mairi Yoshioka**: Machine Learning & Software <a href="https://github.com/mair1" target="_blank" rel="noopener noreferrer">GitHub Profile</a>
 
-<figure>
-  <a href="https://arxiv.org/pdf/2112.11377" target="_blank">
-    <img src="/projects/wheelsensor-ICS496/img/polarization-process.png" alt="Polarization Process" style="width: 100%;">
-  </a>
-  <figcaption>
-    Figure 1: Neural Network Source: <a href="https://arxiv.org/pdf/2112.11377" target="_blank">Shape from Polarization for Complex Scenes in the Wild</a>.
-  </figcaption>
-</figure>
+![Polarization Process](/projects/wheelsensor-ICS496/img/polarization-process.png){: width="100%"}
+
+_Figure 1: Neural Network Source. Adapted from [[1]](#cite-1)._
 
 ## Project Details
 
@@ -39,6 +34,8 @@ summary: "Developing a prototype for a polarimetric terramechanic wheel sensor."
 2. Neural network for data processing
 
 ![Project Goal](/projects/wheelsensor-ICS496/img/project-goal.png){: width="50%"}
+
+_Figure 2: Conceptual diagram of a vision-based terrain traversability system using an in-wheel polarization camera. Adapted from [[2]](#cite-2)._
 
 ## Weekly Summaries
 
@@ -67,4 +64,6 @@ This project is part of the ICS 496 Capstone Project, focusing on developing an 
 
 ## Citations
 
-1. Lei, C., Qi, C., Xie, J., Fan, N., Koltun, V., & Chen, Q. (2022). <a href="https://arxiv.org/pdf/2112.11377" target="_blank" rel="noopener noreferrer">Shape from Polarization for Complex Scenes in the Wild</a>. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 12632-12641. <a href="https://github.com/ChenyangLEI/sfp-wild" target="_blank" rel="noopener noreferrer">[GitHub Repository]</a>
+<a id="cite-1"></a> **[1]** Lei, C., Qi, C., Xie, J., Fan, N., Koltun, V., & Chen, Q. (2022). [Shape from Polarization for Complex Scenes in the Wild](https://arxiv.org/pdf/2112.11377). *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 12632-12641. [GitHub Repository](https://github.com/ChenyangLEI/sfp-wild)
+
+<a id="cite-2"></a> **[2]** Kalra, A., Taamazyan, V., Rao, S. K., Venkataraman, K., Raskar, R., & Kadambi, A. (2020). *Deep polarization cues for transparent object segmentation*. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 8602–8611.
